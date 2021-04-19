@@ -1,0 +1,52 @@
+[debug] [2021-04-19T01:54:55.417Z] ----------------------------------------------------------------------
+[debug] [2021-04-19T01:54:55.420Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\KIIT\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-19T01:54:55.420Z] CLI Version:   9.9.0
+[debug] [2021-04-19T01:54:55.420Z] Platform:      win32
+[debug] [2021-04-19T01:54:55.420Z] Node Version:  v14.16.0
+[debug] [2021-04-19T01:54:55.421Z] Time:          Mon Apr 19 2021 07:24:55 GMT+0530 (India Standard Time)
+[debug] [2021-04-19T01:54:55.421Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-19T01:54:55.424Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-04-19T01:54:55.447Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-19T01:54:55.447Z] > authorizing via signed-in user (sujeetk3099@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\KIIT\Documents\Projects\meeting-app-backend
+
+[debug] [2021-04-19T01:54:57.021Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2021-04-19T01:54:57.021Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2021-04-19T01:55:28.009Z] ----------------------------------------------------------------------
+[debug] [2021-04-19T01:55:28.011Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\KIIT\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2021-04-19T01:55:28.011Z] CLI Version:   9.9.0
+[debug] [2021-04-19T01:55:28.011Z] Platform:      win32
+[debug] [2021-04-19T01:55:28.011Z] Node Version:  v14.16.0
+[debug] [2021-04-19T01:55:28.012Z] Time:          Mon Apr 19 2021 07:25:28 GMT+0530 (India Standard Time)
+[debug] [2021-04-19T01:55:28.012Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-19T01:55:28.019Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-19T01:55:28.019Z] > authorizing via signed-in user (sujeetk3099@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\KIIT\Documents\Projects\meeting-app-backend
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
